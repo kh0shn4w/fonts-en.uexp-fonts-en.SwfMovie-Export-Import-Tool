@@ -1,8 +1,8 @@
-# Tool export/import font files for Dead Island 2 and Borderlands 3 Supports .SwfMovie & .UEXP
+# Tool export/import font files for Dead Island 2 and Borderlands 3 and Outlast 2 Supports .SwfMovie & .UEXP
 
 Coded by Ameer Xoshnaw / GamesinKurdish.com
 
-Tool export/import font files for Dead Island 2 and Borderlands 3
+Tool export/import font files for Dead Island 2 and Borderlands 3 and Outlast 2
 
 Supports .SwfMovie & .UEXP
 
